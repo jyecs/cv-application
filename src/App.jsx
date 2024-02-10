@@ -1,5 +1,6 @@
 import './App.css'
-import General from "./General.jsx"
+import Education from './education.jsx'
+import General from "./general.jsx"
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
         Test
       </div>
       <General></General>
+      <Education></Education>
     </div>
   )
 }
